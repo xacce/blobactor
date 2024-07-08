@@ -1,0 +1,21 @@
+{
+    "name": "com.xacce.blobactor.runtime",
+    "references": [
+        "Unity.Burst",
+        "Unity.Transforms",
+        "Unity.Transforms.Hybrid",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Mathematics",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

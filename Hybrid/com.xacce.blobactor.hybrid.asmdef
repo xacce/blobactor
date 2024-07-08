@@ -1,0 +1,26 @@
+{
+    "name": "com.xacce.blobactor.hybrid",
+    "references": [
+        "Unity.Burst",
+        "Unity.Transforms",
+        "Unity.Transforms.Hybrid",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "com.xacce.core.hybrid",
+        "com.xacce.core.runtime",
+        "Unity.AI.Navigation",
+        "com.xacce.blobactor.runtime"
+    ],
+    "includePlatforms": [
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
